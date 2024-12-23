@@ -1,2 +1,2 @@
 # Portfolio
-To Enhance my Skills Of Web Development Field I use HTML, CSS ,JavaScript
+To Enhance my Skills Of Web Development. I use HTML, CSS ,JavaScript
